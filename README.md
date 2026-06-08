@@ -4,7 +4,7 @@
   
   # 🐺 Raptor RTO (CIS Helper)
   
-  **Real-time Russian to English translator overlay for Ghost Recon Wildlands**
+  **Real-time Russian to English translator overlay for CIS Games**
   
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Python](https://img.shields.io/badge/Python-3.12+-green.svg)](https://python.org)
