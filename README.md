@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="assets/logo.png" alt="Raptor RTO Logo" width="200">
+  <img src="/assets/logo.png" alt="Raptor RTO Logo" width="200">
   
   # 🐺 Raptor RTO (CIS Helper)
   
